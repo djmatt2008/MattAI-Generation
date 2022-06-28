@@ -1,0 +1,5 @@
+name = input("Running Matt ai press enter to continue")
+print("MattAI version 2.2.6.0")
+print("No errors ai working, ai running smoothly")
+name = input("Press enter to stop matt ai")
+name = input("Stopping MattAI version 2.2.6.0, press enter to close window")
